@@ -1,12 +1,12 @@
-# Breast Cancer Predictor
+# Lung Cancer Predictor
 
-![home](https://user-images.githubusercontent.com/64016811/200050898-b7e0a3f7-acd9-4075-8e3b-a0f1a8a47af3.png)
-
+![home](https://user-images.githubusercontent.com/64016811/205644469-6c04ee4f-86f8-40fa-90d0-a4ee302a7f43.jpeg)
 
 
 ### Problem : 
 
-Breast Cancer is a chronic health condition that affects how your heart pumps blood throughout your body. It is not a disease but a phenomena, where there are sudden cardiac arrests. Having healthy, low-cholesterol food, and being active can really help in reducing the chances of cardiac arrest. 
+A cancer that begins in the lungs and most often occurs in people who smoke.
+Two major types of lung cancer are non-small cell lung cancer and small cell lung cancer. Causes of lung cancer include smoking, second-hand smoke, exposure to certain toxins and family history. Symptoms include a cough (often with blood), chest pain, wheezing and weight loss. These symptoms often don't appear until the cancer is advanced. Treatments vary but may include surgery, chemotherapy, radiation therapy, targeted drug therapy and immunotherapy.
 
 ### Solution:
 
@@ -25,9 +25,9 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 |   └─── data.py
 |   └─── predict.py
 |   └─── visualize.py
-|   └─── about.py
 └───__pycache__
 └─── main.py
+└─── LC.csv
 └─── web_functions.py
 └─── requirements.txt
 └─── Procfile
